@@ -6,19 +6,19 @@ b. 1986 — Barcelona, ES
 
 **Selected exhibitions:**
 - 2018 
-    - Pay-Per-Follow — The Internet Yami-Ichi, Tentacular (24/11/18 Matadero, Madrid, ES) 
-    - Follow — Design Does (24/03-13/05/18 Barcelona Design Museum, ES)
+    - [Pay-Per-Follow](https://armengol-altayo.com/payperfollow.html) — The Internet Yami-Ichi, Tentacular (24/11/18 Matadero, Madrid, ES) 
+    - [Follow](https://armengol-altayo.com/follow.html) — Design Does (24/03-13/05/18 Barcelona Design Museum, ES)
 - 2017 
-    - I am a strange loop — Digital Decade 5 (25-27/08/17 Ugly Duck, London, GB)
-    - Sleep disorder — El laboratorio del no hacer (02-04/06/17 Blueproject Foundation,
+    - [I am a strange loop](https://armengol-altayo.com/iamastrangeloop.html) — Digital Decade 5 (25-27/08/17 Ugly Duck, London, GB)
+    - [Sleep disorder](https://armengol-altayo.com/sleepdisorder.html) — El laboratorio del no hacer (02-04/06/17 Blueproject Foundation,
 Barcelona, ES)
-    - I am a strange loop — Mobile Week Barcelona (15/02-04/03/17 Mobile World Centre,
+    - [I am a strange loop](https://armengol-altayo.com/iamastrangeloop.html) — Mobile Week Barcelona (15/02-04/03/17 Mobile World Centre,
 Barcelona, ES)
 - 2016 
-    - Sleep disorder — The Internet Yami-ichi, The Influencers (22/10/16 CCCB, Barcelona,
+    - [Sleep disorder](https://armengol-altayo.com/sleepdisorder.html) — The Internet Yami-ichi, The Influencers (22/10/16 CCCB, Barcelona,
 ES)
-    - #artificialselfie — Art of Bots (15-16/04/16 Somerset House, London, GB)
-    - #artificialselfie — Unread Messages (11/03-09/04/16 The Aram Gallery, London, GB) 
+    - [#artificialselfie](https://armengol-altayo.com/artificialselfie.html) — Art of Bots (15-16/04/16 Somerset House, London, GB)
+    - [#artificialselfie](https://armengol-altayo.com/artificialselfie.html) — Unread Messages (11/03-09/04/16 The Aram Gallery, London, GB) 
 - 2014 
     - Blanc — Blanc Nit (14-15/11/14 Vilanova i la Geltrú, ES)
     - Ús (01/02/14 Encants Vells, Barcelona, ES)
@@ -33,9 +33,9 @@ Center, Cincinnati, US)
 Digital Arts, Beijing, CN)
     - Human interface — Talk to me: design and the communication between people and
 objects (24/07-07/11/11 MoMA, New York, US)
-    - Fly me — Red Bull, OFFF (11/06/11 CCCB, Barcelona, ES)
+    - FLY ME — Red Bull, OFFF (11/06/11 CCCB, Barcelona, ES)
 - 2010 
-    - Mov me — Sudala (27-28/08/10 Teatro Caupolicán, Santiago de Chile, CL) 2009 Human interface — TED Global (21/07/09 Oxford, GB)
+    - MOV ME — Sudala (27-28/08/10 Teatro Caupolicán, Santiago de Chile, CL) 2009 Human interface — TED Global (21/07/09 Oxford, GB)
 - 2009 
     - Invaders — OFFF (07/05/09 Fundiçao de Oeiras, Oeiras, PT)
 - 2008 
@@ -109,7 +109,7 @@ Barcelona, ES)
 - 2011 
     - Internet of Things — KIKK (24-25/11/11 Palais des Congrès, Namur, BE)
 - 2010 
-    - mov me — Atelier (08/10/10 Barcelona, ES)
+    - MOV ME — Atelier (08/10/10 Barcelona, ES)
     - Atelier Class 10/11 (09/10-06/11 Barcelona, ES)
     - OFFF (19-21/05/10 Senac, Sao Paulo, BR)
 - 2009 
