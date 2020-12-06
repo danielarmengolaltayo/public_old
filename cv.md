@@ -1,10 +1,11 @@
 ---
-last update: 20200716 #[[digital-earth]]
+last update: 2020-12-06
 ---
 # CV
 
 **Selected exhibitions:**
-- 2018 Pay-Per-Follow — The Internet Yami-Ichi, Tentacular (24/11/18 Matadero, Madrid, ES) 2018 Follow — Design Does (24/03-13/05/18 Barcelona Design Museum, ES)
+- 2018 Pay-Per-Follow — The Internet Yami-Ichi, Tentacular (24/11/18 Matadero, Madrid, ES) 
+- 2018 Follow — Design Does (24/03-13/05/18 Barcelona Design Museum, ES)
 - 2017 I am a strange loop — Digital Decade 5 (25-27/08/17 Ugly Duck, London, GB)
 - 2017 Sleep disorder — El laboratorio del no hacer (02-04/06/17 Blueproject Foundation,
 Barcelona, ES)
@@ -13,7 +14,8 @@ Barcelona, ES)
 - 2016 Sleep disorder — The Internet Yami-ichi, The Influencers (22/10/16 CCCB, Barcelona,
 ES)
 - 2016 #artificialselfie — Art of Bots (15-16/04/16 Somerset House, London, GB)
-- 2016 #artificialselfie — Unread Messages (11/03-09/04/16 The Aram Gallery, London, GB) 2014 Blanc — Blanc Nit (14-15/11/14 Vilanova i la Geltrú, ES)
+- 2016 #artificialselfie — Unread Messages (11/03-09/04/16 The Aram Gallery, London, GB) 
+- 2014 Blanc — Blanc Nit (14-15/11/14 Vilanova i la Geltrú, ES)
 - 2014 Ús (01/02/14 Encants Vells, Barcelona, ES)
 - 2013 Més enllà de la creativitat (22/04-04/07/13 Sala Ciutat, Barcelona, ES)
 - 2013 Simon — ON! Handcrafted Digital Playgrounds (09/03-03/09/13 Contemporary Arts
@@ -44,15 +46,19 @@ objects (24/07-07/11/11 MoMA, New York, US)
 - 2012 Behance Portfolio Reviews (31/10/12 Fàbrica Moritz, Barcelona, ES)
 - 2012 La letra ilustra (29/09/12 Museo de San Ildefonso, MX City, MX)
 - 2012 Mercat d’Idees Disseny (27/09/12 Arts Santa Mònica, Barcelona, ES)
-- 2012 DMJX Interactive design class (15/05/12 Multitouch Barcelona studio, Barcelona, ES) 2012 Visuelt (03/05/12 Dansens Hus, Oslo, NO)
+- 2012 DMJX Interactive design class (15/05/12 Multitouch Barcelona studio, Barcelona, ES) 
+- 2012 Visuelt (03/05/12 Dansens Hus, Oslo, NO)
 - 2012 Día C (20/04/12 Teatro Calderón, Valladolid, ES)
 - 2012 EXID, Congreso internacional de diseño de información visual (23/02/12 UDLAP, Cholula, MX)
 - 2011 KIKK (25/11/11 Palais des Congrès, Namur, BE)
-- 2011 Inspirational Festival (23/11/11 Palacete de los Duques de Pastrana, Madrid, ES) 2011 Broad (17/11/11 Edifici Mediapro, Barcelona, ES)
-- 2011 Postgraduate Programmes in Cultural Management (16/09/11 UB, Barcelona, ES) 2011 Pixel Show (17/07/11 Centro de Convençoes de Pernambuco, Recife, BR)
+- 2011 Inspirational Festival (23/11/11 Palacete de los Duques de Pastrana, Madrid, ES) 
+- 2011 Broad (17/11/11 Edifici Mediapro, Barcelona, ES)
+- 2011 Postgraduate Programmes in Cultural Management (16/09/11 UB, Barcelona, ES) 
+- 2011 Pixel Show (17/07/11 Centro de Convençoes de Pernambuco, Recife, BR)
 - 2011 OFFF (09/06/11 CCCB, Barcelona, ES)
 - 2011 Multi-mania (24/05/11 Meeting Center, Kortrijk, BE)
-- 2011 Master and Postgraduate degree in Graphic Design (13/01/11 Elisava, Barcelona, ES) 2010 Pixel Attack (02/10/10 OCCC, Valencia, ES)
+- 2011 Master and Postgraduate degree in Graphic Design (13/01/11 Elisava, Barcelona, ES) 
+- 2010 Pixel Attack (02/10/10 OCCC, Valencia, ES)
 - 2010 Sudala (27/08/10 Teatro Caupolicán, Santiago de Chile, CL)
 - 2010 OFFF (22/05/10 Senac, Sao Paulo, BR)
 - 2010 Tratado de Integración (06/03/10 MALBA, Buenos Aires, AR)
@@ -65,13 +71,15 @@ objects (24/07-07/11/11 MoMA, New York, US)
 
 **Teaching and workshops:**
 - 2018 Interaction Design Class, 3rd year of Graphic Design — Idep (10/17-02/18 Barcelona, ES)
-- 2018 Tutor for Final Degree Project in Graphic Design — Idep (11/17-01/18 Barcelona, ES) 2017 Artificial Boundaries: Tutor for interactive performance — Elisava, Digital Design
+- 2018 Tutor for Final Degree Project in Graphic Design — Idep (11/17-01/18 Barcelona, ES) 
+- 2017 Artificial Boundaries: Tutor for interactive performance — Elisava, Digital Design
 Weekend (23-24/09/17 London, GB)
 - 2017 Tutor for Final Degree Project in Design — Elisava (01-06/17 Barcelona, ES)
 - 2016 Esponja, sí o no — Departamento Exotérico, MACBA (28/06/16 Barcelona, ES)
 - 2015 Hacker's Bazaar: The value of design — Elisava International Workshops (15-18/12/15
 Barcelona, ES)
-- 2013 Art Direction and Graphic Design for Advertising — Complot (03/13 Barcelona, ES) 2013 Internet of Things — Atelier (28-31/01/13 Barcelona, ES)
+- 2013 Art Direction and Graphic Design for Advertising — Complot (03/13 Barcelona, ES) 
+- 2013 Internet of Things — Atelier (28-31/01/13 Barcelona, ES)
 - 2011 Internet of Things — KIKK (24-25/11/11 Palais des Congrès, Namur, BE)
 - 2010 mov me — Atelier (08/10/10 Barcelona, ES)
 - 2010 Atelier Class 10/11 (09/10-06/11 Barcelona, ES)
@@ -85,16 +93,17 @@ Barcelona, ES)
 - 2015 Premios Gràffica (11/12/15 Zaragoza, ES)
 - 2013 Laus — GOLD, Interactive installations (04/07/13 Barcelona, ES)
 - 2013 Laus — BRONZE, Interactive installations (04/07/13 Barcelona, ES)
-- 2010 Vimeo Awards — Community Choice, Captured (12/11/10 New York, US) 2010 Vimeo Awards — Finalist, Captured (08/10/10 New York, US)
+- 2010 Vimeo Awards — Community Choice, Captured (12/11/10 New York, US) 
+- 2010 Vimeo Awards — Finalist, Captured (08/10/10 New York, US)
 - 2010 Fileprix — 2n Prize, Digital Language (27/07/10 Sao Paulo, BR)
 - 2009 Couch Fest Films — Best Experimental Film (07/11/09 Seattle, US)
 
 **Employment history:**
 - 2019-today Vewpoint
 - 2018 InterPlanetary Mind Map, research project
-- 2013-2018 Freelance ([video summary](https://www.youtube.com/watch?v=HDw3ZGR1gFw))
+- 2013-2018 Freelance <sup>[video summary](https://www.youtube.com/watch?v=HDw3ZGR1gFw)</sup>
 - 2010-2015 GIF ME, interactive installations for events
-- 2008-2013 Multitouch Barcelona, interaction design studio ([video summary](https://www.youtube.com/watch?v=S13tjz6TKek))
+- 2008-2013 Multitouch Barcelona, interaction design studio <sup>[video summary](https://www.youtube.com/watch?v=S13tjz6TKek)</sup>
 
 **Education:**
 - 2019 JavaScript Full-Stack, online
