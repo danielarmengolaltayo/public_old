@@ -1,34 +1,45 @@
 ---
 last update: 2020-12-06
 ---
-# CV
+Daniel Armengol Altayó
+b. 1986 — Barcelona, ES
 
 **Selected exhibitions:**
-- 2018 Pay-Per-Follow — The Internet Yami-Ichi, Tentacular (24/11/18 Matadero, Madrid, ES) 
-- 2018 Follow — Design Does (24/03-13/05/18 Barcelona Design Museum, ES)
-- 2017 I am a strange loop — Digital Decade 5 (25-27/08/17 Ugly Duck, London, GB)
-- 2017 Sleep disorder — El laboratorio del no hacer (02-04/06/17 Blueproject Foundation,
+- 2018 
+    - Pay-Per-Follow — The Internet Yami-Ichi, Tentacular (24/11/18 Matadero, Madrid, ES) 
+    - Follow — Design Does (24/03-13/05/18 Barcelona Design Museum, ES)
+- 2017 
+    - I am a strange loop — Digital Decade 5 (25-27/08/17 Ugly Duck, London, GB)
+    - Sleep disorder — El laboratorio del no hacer (02-04/06/17 Blueproject Foundation,
 Barcelona, ES)
-- 2017 I am a strange loop — Mobile Week Barcelona (15/02-04/03/17 Mobile World Centre,
+    - I am a strange loop — Mobile Week Barcelona (15/02-04/03/17 Mobile World Centre,
 Barcelona, ES)
-- 2016 Sleep disorder — The Internet Yami-ichi, The Influencers (22/10/16 CCCB, Barcelona,
+- 2016 
+    - Sleep disorder — The Internet Yami-ichi, The Influencers (22/10/16 CCCB, Barcelona,
 ES)
-- 2016 #artificialselfie — Art of Bots (15-16/04/16 Somerset House, London, GB)
-- 2016 #artificialselfie — Unread Messages (11/03-09/04/16 The Aram Gallery, London, GB) 
-- 2014 Blanc — Blanc Nit (14-15/11/14 Vilanova i la Geltrú, ES)
-- 2014 Ús (01/02/14 Encants Vells, Barcelona, ES)
-- 2013 Més enllà de la creativitat (22/04-04/07/13 Sala Ciutat, Barcelona, ES)
-- 2013 Simon — ON! Handcrafted Digital Playgrounds (09/03-03/09/13 Contemporary Arts
+    - #artificialselfie — Art of Bots (15-16/04/16 Somerset House, London, GB)
+    - #artificialselfie — Unread Messages (11/03-09/04/16 The Aram Gallery, London, GB) 
+- 2014 
+    - Blanc — Blanc Nit (14-15/11/14 Vilanova i la Geltrú, ES)
+    - Ús (01/02/14 Encants Vells, Barcelona, ES)
+- 2013 
+    - Més enllà de la creativitat (22/04-04/07/13 Sala Ciutat, Barcelona, ES)
+    - Simon — ON! Handcrafted Digital Playgrounds (09/03-03/09/13 Contemporary Arts
 Center, Cincinnati, US)
-- 2012 Mercat d’Idees Disseny (26/09-10/10/12 Arts Santa Mònica, Barcelona, ES)
-- 2011 Human interface — AV@AR (17/12/11-03/01/12 China Millennium Monument Museum of
+- 2012 
+    - Mercat d’Idees Disseny (26/09-10/10/12 Arts Santa Mònica, Barcelona, ES)
+- 2011 
+    - Human interface — AV@AR (17/12/11-03/01/12 China Millennium Monument Museum of
 Digital Arts, Beijing, CN)
-- 2011 Human interface — Talk to me: design and the communication between people and
+    - Human interface — Talk to me: design and the communication between people and
 objects (24/07-07/11/11 MoMA, New York, US)
-- 2011 Fly me — Red Bull, OFFF (11/06/11 CCCB, Barcelona, ES)
-- 2010 Mov me — Sudala (27-28/08/10 Teatro Caupolicán, Santiago de Chile, CL) 2009 Human interface — TED Global (21/07/09 Oxford, GB)
-- 2009 Invaders — OFFF (07/05/09 Fundiçao de Oeiras, Oeiras, PT)
-- 2008 Red Bull Music Academy (01/09-30/10/08 Fabra i Coats, Barcelona, ES)
+    - Fly me — Red Bull, OFFF (11/06/11 CCCB, Barcelona, ES)
+- 2010 
+    - Mov me — Sudala (27-28/08/10 Teatro Caupolicán, Santiago de Chile, CL) 2009 Human interface — TED Global (21/07/09 Oxford, GB)
+- 2009 
+    - Invaders — OFFF (07/05/09 Fundiçao de Oeiras, Oeiras, PT)
+- 2008 
+    - Red Bull Music Academy (01/09-30/10/08 Fabra i Coats, Barcelona, ES)
 
 **Talks:**
 - 2018 Tech Talk — Human interactions (18/01/18 imaginCafé, Barcelona, ES)
