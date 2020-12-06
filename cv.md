@@ -1,7 +1,7 @@
 ---
 last update: 2020-12-06
 ---
-Daniel Armengol Altayó
+Daniel Armengol Altayó  
 b. 1986 — Barcelona, ES
 
 **Selected exhibitions:**
