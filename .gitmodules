@@ -1,0 +1,6 @@
+[submodule "vew"]
+	path = vew
+	url = https://github.com/danielarmengolaltayo/vew.git
+[submodule "agora"]
+	path = agora
+	url = https://github.com/danielarmengolaltayo/agora.git
