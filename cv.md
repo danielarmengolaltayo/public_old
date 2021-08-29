@@ -37,7 +37,7 @@ objects (24/07-07/11/11 MoMA, New York, US)
 - 2010 
     - MOV ME — Sudala (27-28/08/10 Teatro Caupolicán, Santiago de Chile, CL) 2009 Human interface — TED Global (21/07/09 Oxford, GB)
 - 2009 
-    - Invaders — OFFF (07/05/09 Fundiçao de Oeiras, Oeiras, PT)
+    - Invaders — OFFF (07/05/09 Fundiçao de Oeiras, PT)
 - 2008 
     - Red Bull Music Academy (01/09-30/10/08 Fabra i Coats, Barcelona, ES)
 
