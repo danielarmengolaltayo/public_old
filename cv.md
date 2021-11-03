@@ -3,7 +3,7 @@ b. 1986 — Barcelona, ES
 
 **Selected exhibitions:**
 - 2018 
-    - Pay-Per-Follow — The Internet Yami-Ichi, Tentacular (24/11/18 Matadero, Madrid, ES) 
+    - [Pay-Per-Follow](https://armengol-altayo.com/payperfollow) — The Internet Yami-Ichi, Tentacular (24/11/18 Matadero, Madrid, ES) 
     - [Follow](https://armengol-altayo.com/follow) — Design Does (24/03-13/05/18 Barcelona Design Museum, ES)
 - 2017 
     - [I am a strange loop](https://armengol-altayo.com/iamastrangeloop) — Digital Decade 5 (25-27/08/17 Ugly Duck, London, GB)
