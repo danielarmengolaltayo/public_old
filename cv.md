@@ -1,24 +1,21 @@
----
-last update: 2020-12-06
----
 **Daniel Armengol Altayó**  
 b. 1986 — Barcelona, ES
 
 **Selected exhibitions:**
 - 2018 
-    - [Pay-Per-Follow](https://armengol-altayo.com/payperfollow.html) — The Internet Yami-Ichi, Tentacular (24/11/18 Matadero, Madrid, ES) 
-    - [Follow](https://armengol-altayo.com/follow.html) — Design Does (24/03-13/05/18 Barcelona Design Museum, ES)
+    - Pay-Per-Follow — The Internet Yami-Ichi, Tentacular (24/11/18 Matadero, Madrid, ES) 
+    - [Follow](https://armengol-altayo.com/follow) — Design Does (24/03-13/05/18 Barcelona Design Museum, ES)
 - 2017 
-    - [I am a strange loop](https://armengol-altayo.com/iamastrangeloop.html) — Digital Decade 5 (25-27/08/17 Ugly Duck, London, GB)
-    - [Sleep disorder](https://armengol-altayo.com/sleepdisorder.html) — El laboratorio del no hacer (02-04/06/17 Blueproject Foundation,
+    - [I am a strange loop](https://armengol-altayo.com/iamastrangeloop) — Digital Decade 5 (25-27/08/17 Ugly Duck, London, GB)
+    - [Sleep disorder](https://armengol-altayo.com/sleepdisorder) — El laboratorio del no hacer (02-04/06/17 Blueproject Foundation,
 Barcelona, ES)
-    - [I am a strange loop](https://armengol-altayo.com/iamastrangeloop.html) — Mobile Week Barcelona (15/02-04/03/17 Mobile World Centre,
+    - [I am a strange loop](https://armengol-altayo.com/iamastrangeloop) — Mobile Week Barcelona (15/02-04/03/17 Mobile World Centre,
 Barcelona, ES)
 - 2016 
-    - [Sleep disorder](https://armengol-altayo.com/sleepdisorder.html) — The Internet Yami-ichi, The Influencers (22/10/16 CCCB, Barcelona,
+    - [Sleep disorder](https://armengol-altayo.com/sleepdisorder) — The Internet Yami-ichi, The Influencers (22/10/16 CCCB, Barcelona,
 ES)
-    - [#artificialselfie](https://armengol-altayo.com/artificialselfie.html) — Art of Bots (15-16/04/16 Somerset House, London, GB)
-    - [#artificialselfie](https://armengol-altayo.com/artificialselfie.html) — Unread Messages (11/03-09/04/16 The Aram Gallery, London, GB) 
+    - [#artificialselfie](https://armengol-altayo.com/artificialselfie) — Art of Bots (15-16/04/16 Somerset House, London, GB)
+    - [#artificialselfie](https://armengol-altayo.com/artificialselfie) — Unread Messages (11/03-09/04/16 The Aram Gallery, London, GB) 
 - 2014 
     - Blanc — Blanc Nit (14-15/11/14 Vilanova i la Geltrú, ES)
     - Ús (01/02/14 Encants Vells, Barcelona, ES)
