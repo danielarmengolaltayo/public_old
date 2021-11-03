@@ -17,7 +17,7 @@ ES)
     - [#artificialselfie](https://armengol-altayo.com/artificialselfie) — Art of Bots (15-16/04/16 Somerset House, London, GB)
     - [#artificialselfie](https://armengol-altayo.com/artificialselfie) — Unread Messages (11/03-09/04/16 The Aram Gallery, London, GB) 
 - 2014 
-    - Blanc — Blanc Nit (14-15/11/14 Vilanova i la Geltrú, ES)
+    - [Blanc](https://armengol-altayo.com/blanc) — Blanc Nit (14-15/11/14 Vilanova i la Geltrú, ES)
     - Ús (01/02/14 Encants Vells, Barcelona, ES)
 - 2013 
     - Més enllà de la creativitat (22/04-04/07/13 Sala Ciutat, Barcelona, ES)
@@ -26,9 +26,9 @@ Center, Cincinnati, US)
 - 2012 
     - Mercat d’Idees Disseny (26/09-10/10/12 Arts Santa Mònica, Barcelona, ES)
 - 2011 
-    - Human interface — AV@AR (17/12/11-03/01/12 China Millennium Monument Museum of
+    - [Human interface](https://armengol-altayo.com/humaninterface) — AV@AR (17/12/11-03/01/12 China Millennium Monument Museum of
 Digital Arts, Beijing, CN)
-    - Human interface — Talk to me: design and the communication between people and
+    - [Human interface](https://armengol-altayo.com/humaninterface) — Talk to me: design and the communication between people and
 objects (24/07-07/11/11 MoMA, New York, US)
     - FLY ME — Red Bull, OFFF (11/06/11 CCCB, Barcelona, ES)
 - 2010 
