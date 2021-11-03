@@ -42,6 +42,8 @@ objects (24/07-07/11/11 MoMA, New York, US)
     - Red Bull Music Academy (01/09-30/10/08 Fabra i Coats, Barcelona, ES)
 
 **Talks:**
+- 2021
+    - Pointless (16/09/21 Soho House Barcelona, ES)
 - 2018 
     - Tech Talk — Human interactions (18/01/18 imaginCafé, Barcelona, ES)
     - Design and communication class, 4th year of bachelor's degree in design — BAU
@@ -91,6 +93,8 @@ objects (24/07-07/11/11 MoMA, New York, US)
     - Shift (16/10/08 Lisboa, PT)
 
 **Teaching and workshops:**
+- 2021
+    - Crítical design of digital behavior — Elisava (09-12/21 Barcelona, ES)
 - 2018 
     - Interaction Design Class, 3rd year of Graphic Design — Idep (10/17-02/18 Barcelona, ES)
     - Tutor for Final Degree Project in Graphic Design — Idep (11/17-01/18 Barcelona, ES) 
